@@ -12,3 +12,7 @@
    - NAVER TV: https://tv.naver.com/siwff/clips
 ## 서울독립영화제
    - NAVER TV: https://tv.naver.com/siff/clips
+
+---
+
+▶️ [영화로 이동하기](https://github.com/MOVIECORD/vlive)
