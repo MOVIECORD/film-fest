@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>제천국제음악영화제 ─ 공지사항</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 25 Sep 2021 06:30:37 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[JIMFF 마스터 클래스 - 마이크 피기스]]></title>
+            <link>https://www.vlive.tv/post/1-24769426</link>
+            <guid>https://www.vlive.tv/post/1-24769426</guid>
+            <pubDate>Sat, 25 Sep 2021 06:30:37 GMT</pubDate>
+            <content:encoded><![CDATA[8.14.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[JIMFF2020] 개막식 공연 '바다야 안녕' - 홍이삭, 장하은 Clip 공개!]]></title>
+            <link>https://www.vlive.tv/post/1-16553120</link>
+            <guid>https://www.vlive.tv/post/1-16553120</guid>
+            <pubDate>Sat, 25 Sep 2021 06:30:37 GMT</pubDate>
+            <content:encoded><![CDATA[2020.8.14.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[JIMFF2020] 제16회 제천국제음악영화제 개막식 8월 13일 오후 6시 20분부터 생중계 시작!]]></title>
+            <link>https://www.vlive.tv/post/0-16509404</link>
+            <guid>https://www.vlive.tv/post/0-16509404</guid>
+            <pubDate>Sat, 25 Sep 2021 06:30:37 GMT</pubDate>
+            <content:encoded><![CDATA[2020.8.13.]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210711_233/1625974471433IjNSr_PNG/image.PNG?type=f200" length="0" type="image/PNG"/>
+        </item>
+        <item>
+            <title><![CDATA[[JIMFF2020] '한국 음악영화의 발자취' 8월 14일 오후 5시 최초 공개!]]></title>
+            <link>https://www.vlive.tv/post/1-16468390</link>
+            <guid>https://www.vlive.tv/post/1-16468390</guid>
+            <pubDate>Sat, 25 Sep 2021 06:30:37 GMT</pubDate>
+            <content:encoded><![CDATA[2020.8.12.]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210711_39/1625975079733iED87_PNG/image.PNG?type=f200" length="0" type="image/PNG"/>
+        </item>
+        <item>
+            <title><![CDATA[[JIMFF2020] '故엔니오 모리꼬네 추모 공연' 8월 14일, 16일 오후 3시 최초 공개!]]></title>
+            <link>https://www.vlive.tv/post/1-16464452</link>
+            <guid>https://www.vlive.tv/post/1-16464452</guid>
+            <pubDate>Sat, 25 Sep 2021 06:30:37 GMT</pubDate>
+            <content:encoded><![CDATA[2020.8.12.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[JIMFF2020] '영화 속 음악코드' 8월 14일 오후 1시, 8월 15일 오후 4시 최초 공개!]]></title>
+            <link>https://www.vlive.tv/post/1-16397182</link>
+            <guid>https://www.vlive.tv/post/1-16397182</guid>
+            <pubDate>Sat, 25 Sep 2021 06:30:37 GMT</pubDate>
+            <content:encoded><![CDATA[2020.8.10.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[JIMFF2020] 'JIMFF 씨네 콘서트' 8월 14일, 15일, 16일 오전 11시 최초 공개!]]></title>
+            <link>https://www.vlive.tv/post/1-16263175</link>
+            <guid>https://www.vlive.tv/post/1-16263175</guid>
+            <pubDate>Sat, 25 Sep 2021 06:30:37 GMT</pubDate>
+            <content:encoded><![CDATA[2020.8.7.]]></content:encoded>
+        </item>
+    </channel>
+</rss>
