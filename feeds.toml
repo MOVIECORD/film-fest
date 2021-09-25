@@ -18,6 +18,26 @@ contentSelector = "div[class^='writer_area'] em"
 waitUntil = "networkidle"
 onFail = "stale"
 
+[bifan]
+title = "부천국제판타스틱영화제"
+url = "https://www.vlive.tv/channel/B3497D/board/6039?lang=ko"
+entrySelector = "li[class^='post_item']"
+titleSelector = "strong[class^='title_text']"
+linkSelector = "a[class^='post_area']"
+contentSelector = "div[class^='writer_area'] em"
+waitUntil = "networkidle"
+onFail = "stale"
+
+[bifan_notice]
+title = "부천국제판타스틱영화제 ─ 공지사항"
+url = "https://www.vlive.tv/channel/B3497D/board/2483?lang=ko"
+entrySelector = "li[class^='post_item']"
+titleSelector = "strong[class^='title_text']"
+linkSelector = "a[class^='post_area']"
+contentSelector = "div[class^='writer_area'] em"
+waitUntil = "networkidle"
+onFail = "stale"
+
 [biff]
 title = "부산국제영화제"
 url = "https://www.vlive.tv/channel/AD1A43/board/6213?lang=ko"
