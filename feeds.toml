@@ -59,7 +59,7 @@ waitUntil = "networkidle"
 onFail = "stale"
 
 [jeonjuitt]
-title = "전주국제영화제 ─ 공지사항"
+title = "전주국제영화제"
 url = "https://www.vlive.tv/channel/B4E949/board/5981?lang=ko"
 entrySelector = "li[class^='post_item']"
 titleSelector = "strong[class^='title_text']"
