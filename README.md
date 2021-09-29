@@ -21,7 +21,7 @@
 ## 서울독립영화제
    - NAVER TV: https://tv.naver.com/siff/clips
 ## 무주산골영화제
-   - NAVER TV: hhttps://tv.naver.com/mjff/clips
+   - NAVER TV: https://tv.naver.com/mjff/clips
 ---
 
 ▶️ [영화로 이동하기](https://github.com/MOVIECORD/vlive)
