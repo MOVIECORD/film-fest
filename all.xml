@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Oct 2021 10:11:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Oct 2021 10:57:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -362,13 +362,6 @@
             <link>https://www.vlive.tv/post/1-25794004</link>
             <guid>https://www.vlive.tv/post/1-25794004</guid>
             <pubDate>Wed, 06 Oct 2021 10:11:31 GMT</pubDate>
-            <content:encoded><![CDATA[부산국제영화제]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[라이브 테스트 (부산국제영화제)]]></title>
-            <link>https://www.vlive.tv/post/1-25812843</link>
-            <guid>https://www.vlive.tv/post/1-25812843</guid>
-            <pubDate>Wed, 06 Oct 2021 07:11:26 GMT</pubDate>
             <content:encoded><![CDATA[부산국제영화제]]></content:encoded>
         </item>
         <item>
