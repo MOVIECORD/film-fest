@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/AD1A43/board/6213?lang=ko</id>
     <title>부산국제영화제</title>
-    <updated>2021-10-06T06:13:22.697Z</updated>
+    <updated>2021-10-06T07:11:49.563Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[라이브 테스트]]></title>
+        <id>https://www.vlive.tv/post/1-25812843</id>
+        <link href="https://www.vlive.tv/post/1-25812843"/>
+        <updated>2021-10-06T07:11:26.886Z</updated>
+        <content type="html"><![CDATA[부산국제영화제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Full][무대인사] 2019 부산국제영화제 '니나 내나' 라이브]]></title>
         <id>https://www.vlive.tv/post/0-18397770</id>
