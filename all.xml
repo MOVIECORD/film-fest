@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Oct 2021 08:14:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Oct 2021 09:10:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -356,6 +356,13 @@
             <guid>https://www.vlive.tv/post/0-11323722</guid>
             <pubDate>Thu, 07 Oct 2021 08:13:40 GMT</pubDate>
             <content:encoded><![CDATA[Bucheon International Fantastic Film Festival (부천국제판타스틱영화제)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Asia Contents Awards (부산국제영화제)]]></title>
+            <link>https://www.vlive.tv/post/1-25798477</link>
+            <guid>https://www.vlive.tv/post/1-25798477</guid>
+            <pubDate>Thu, 07 Oct 2021 09:10:02 GMT</pubDate>
+            <content:encoded><![CDATA[부산국제영화제]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[제26회 부산국제영화제 개막식 (부산국제영화제)]]></title>
