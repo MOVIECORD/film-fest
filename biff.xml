@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/AD1A43/board/6213?lang=ko</id>
     <title>부산국제영화제</title>
-    <updated>2021-10-08T11:11:43.097Z</updated>
+    <updated>2021-10-08T12:16:36.765Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Asian Film Awards]]></title>
+        <id>https://www.vlive.tv/post/0-25838908</id>
+        <link href="https://www.vlive.tv/post/0-25838908"/>
+        <updated>2021-10-08T12:16:11.729Z</updated>
+        <content type="html"><![CDATA[부산국제영화제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Asia Contents Awards]]></title>
         <id>https://www.vlive.tv/post/1-25798477</id>
