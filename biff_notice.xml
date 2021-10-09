@@ -2,7 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/AD1A43/board/2723?lang=ko</id>
     <title>부산국제영화제 ─ 공지사항</title>
-    <updated>2021-10-09T21:09:53.960Z</updated>
+    <updated>2021-10-09T22:10:35.705Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[BIFF2019] 아시아콘텐츠어워즈 이벤트 공지]]></title>
+        <id>https://www.vlive.tv/post/1-11939470</id>
+        <link href="https://www.vlive.tv/post/1-11939470"/>
+        <updated>2021-10-09T22:10:19.074Z</updated>
+        <content type="html"><![CDATA[부산국제영화제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[BIFF2019] 비플하우스 _자갈치 오픈!]]></title>
+        <id>https://www.vlive.tv/post/0-11923439</id>
+        <link href="https://www.vlive.tv/post/0-11923439"/>
+        <updated>2021-10-09T22:10:19.075Z</updated>
+        <content type="html"><![CDATA[부산국제영화제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[BIFF2019] 비플하우스_해운대 오픈!]]></title>
+        <id>https://www.vlive.tv/post/1-11924202</id>
+        <link href="https://www.vlive.tv/post/1-11924202"/>
+        <updated>2021-10-09T22:10:19.076Z</updated>
+        <content type="html"><![CDATA[부산국제영화제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[BIFF2019] 부산국제영화제 티켓카탈로그 배포]]></title>
+        <id>https://www.vlive.tv/post/0-11880475</id>
+        <link href="https://www.vlive.tv/post/0-11880475"/>
+        <updated>2021-10-09T22:10:19.079Z</updated>
+        <content type="html"><![CDATA[부산국제영화제]]></content>
+    </entry>
 </feed>
