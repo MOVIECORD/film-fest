@@ -1,448 +1,595 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://MOVIECORD.github.io/film-fest/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2022-02-18T09:08:33.025Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <entry>
-        <title type="html"><![CDATA[제17회 제천국제음악영화제 개막식 (제천국제음악영화제)]]></title>
-        <id>https://www.vlive.tv/post/1-24755339</id>
-        <link href="https://www.vlive.tv/post/1-24755339"/>
-        <updated>2022-02-17T16:08:21.215Z</updated>
-        <content type="html"><![CDATA[제천국제음악영화제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[JIMFF2021] 올해의 큐레이터 & 심사위원장 마이크 피기스 감독 인사말 (제천국제음악영화제)]]></title>
-        <id>https://www.vlive.tv/post/1-24378491</id>
-        <link href="https://www.vlive.tv/post/1-24378491"/>
-        <updated>2022-02-17T16:08:21.254Z</updated>
-        <content type="html"><![CDATA[제천국제음악영화제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[JIMFF2021] 공식 트레일러 박흥식 감독 인사말 (제천국제음악영화제)]]></title>
-        <id>https://www.vlive.tv/post/1-24378427</id>
-        <link href="https://www.vlive.tv/post/1-24378427"/>
-        <updated>2022-02-17T16:08:21.256Z</updated>
-        <content type="html"><![CDATA[제천국제음악영화제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[JIMFF2021] 올해의 인물 JIMFFACE 엄정화 인사말 (제천국제음악영화제)]]></title>
-        <id>https://www.vlive.tv/post/0-24373990</id>
-        <link href="https://www.vlive.tv/post/0-24373990"/>
-        <updated>2022-02-17T16:08:21.257Z</updated>
-        <content type="html"><![CDATA[제천국제음악영화제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[JIMFF2021] 공식 트레일러 김수안 배우 인사말 (제천국제음악영화제)]]></title>
-        <id>https://www.vlive.tv/post/1-24378355</id>
-        <link href="https://www.vlive.tv/post/1-24378355"/>
-        <updated>2022-02-17T16:08:21.258Z</updated>
-        <content type="html"><![CDATA[제천국제음악영화제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[JIMFF2021] 제17회 제천국제음악영화제 공식 트레일러 (제천국제음악영화제)]]></title>
-        <id>https://www.vlive.tv/post/1-24109154</id>
-        <link href="https://www.vlive.tv/post/1-24109154"/>
-        <updated>2022-02-17T16:08:21.260Z</updated>
-        <content type="html"><![CDATA[제천국제음악영화제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제17회 제천국제음악영화제 자원활동가 JIMFFree 모집! (제천국제음악영화제)]]></title>
-        <id>https://www.vlive.tv/post/0-23140659</id>
-        <link href="https://www.vlive.tv/post/0-23140659"/>
-        <updated>2022-02-17T16:08:21.261Z</updated>
-        <content type="html"><![CDATA[제천국제음악영화제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[JIMFF2020] 다시, 그린 콘서트 수퍼세션 17ers (제천국제음악영화제)]]></title>
-        <id>https://www.vlive.tv/post/1-18406667</id>
-        <link href="https://www.vlive.tv/post/1-18406667"/>
-        <updated>2022-02-17T16:08:21.267Z</updated>
-        <content type="html"><![CDATA[제천국제음악영화제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[JIMFF2020] DAY1 개막식 하이라이트 (제천국제음악영화제)]]></title>
-        <id>https://www.vlive.tv/post/0-18396125</id>
-        <link href="https://www.vlive.tv/post/0-18396125"/>
-        <updated>2022-02-17T16:08:21.269Z</updated>
-        <content type="html"><![CDATA[제천국제음악영화제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[JIMFF2020] [씨네 토크] JIMFF 음악영화 제작지원작 - 기획에서 완성까지 (제천국제음악영화제)]]></title>
-        <id>https://www.vlive.tv/post/1-18406668</id>
-        <link href="https://www.vlive.tv/post/1-18406668"/>
-        <updated>2022-02-17T16:08:21.269Z</updated>
-        <content type="html"><![CDATA[제천국제음악영화제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[JIMFF2020] [故엔니오 모리꼬네 추모 공연] 2부 성민제 트리오, 조성우, 임윤희 (제천국제음악영화제)]]></title>
-        <id>https://www.vlive.tv/post/1-18406670</id>
-        <link href="https://www.vlive.tv/post/1-18406670"/>
-        <updated>2022-02-17T16:08:21.270Z</updated>
-        <content type="html"><![CDATA[제천국제음악영화제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[JIMFF2020] [씨네 토크] 사운드, 그 감각의 예민함 (제천국제음악영화제)]]></title>
-        <id>https://www.vlive.tv/post/1-18406669</id>
-        <link href="https://www.vlive.tv/post/1-18406669"/>
-        <updated>2022-02-17T16:08:21.272Z</updated>
-        <content type="html"><![CDATA[제천국제음악영화제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[JIMFF2020] [JIMFF 씨네콘서트] 3부 <삼비스타> (제천국제음악영화제)]]></title>
-        <id>https://www.vlive.tv/post/1-18406671</id>
-        <link href="https://www.vlive.tv/post/1-18406671"/>
-        <updated>2022-02-17T16:08:21.273Z</updated>
-        <content type="html"><![CDATA[제천국제음악영화제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[JIMFF2020] [무비톡 뮤직톡, 영화 속 음악코드]  2부 <헤이트풀8>, <피아니스트의 전설> (제천국제음악영화제)]]></title>
-        <id>https://www.vlive.tv/post/1-18406673</id>
-        <link href="https://www.vlive.tv/post/1-18406673"/>
-        <updated>2022-02-17T16:08:21.274Z</updated>
-        <content type="html"><![CDATA[제천국제음악영화제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[JIMFF2020] [마스터클래스] 올해의 큐레이터 (제천국제음악영화제)]]></title>
-        <id>https://www.vlive.tv/post/1-18406674</id>
-        <link href="https://www.vlive.tv/post/1-18406674"/>
-        <updated>2022-02-17T16:08:21.275Z</updated>
-        <content type="html"><![CDATA[제천국제음악영화제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[JIMFF2020] [JIMFF 씨네콘서트] 2부 <카오산 탱고> (제천국제음악영화제)]]></title>
-        <id>https://www.vlive.tv/post/0-18396126</id>
-        <link href="https://www.vlive.tv/post/0-18396126"/>
-        <updated>2022-02-17T16:08:21.276Z</updated>
-        <content type="html"><![CDATA[제천국제음악영화제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[JIMFF2020] [개막식 공연] 바다야 안녕 - 홍이삭, 장하은 (제천국제음악영화제)]]></title>
-        <id>https://www.vlive.tv/post/1-18406672</id>
-        <link href="https://www.vlive.tv/post/1-18406672"/>
-        <updated>2022-02-17T16:08:21.278Z</updated>
-        <content type="html"><![CDATA[제천국제음악영화제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[JIMFF2020] [씨네 토크] 한국 음악영화의 발자취 (제천국제음악영화제)]]></title>
-        <id>https://www.vlive.tv/post/0-18396127</id>
-        <link href="https://www.vlive.tv/post/0-18396127"/>
-        <updated>2022-02-17T16:08:21.279Z</updated>
-        <content type="html"><![CDATA[제천국제음악영화제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[JIMFF2020] [故엔니오 모리꼬네 추모 공연] 1부 조영훈, 홍진호, 대니 구 (제천국제음악영화제)]]></title>
-        <id>https://www.vlive.tv/post/1-18406676</id>
-        <link href="https://www.vlive.tv/post/1-18406676"/>
-        <updated>2022-02-17T16:08:21.280Z</updated>
-        <content type="html"><![CDATA[제천국제음악영화제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[JIMFF2020] [무비톡 뮤직톡, 영화 속 음악코드] 1부 <다시 만난 날들>, <카오산 탱고> (제천국제음악영화제)]]></title>
-        <id>https://www.vlive.tv/post/1-18406677</id>
-        <link href="https://www.vlive.tv/post/1-18406677"/>
-        <updated>2022-02-17T16:08:21.281Z</updated>
-        <content type="html"><![CDATA[제천국제음악영화제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JIMFF 마스터 클래스 - 마이크 피기스 (제천국제음악영화제 ─ 공지사항)]]></title>
-        <id>https://www.vlive.tv/post/1-24769426</id>
-        <link href="https://www.vlive.tv/post/1-24769426"/>
-        <updated>2022-02-17T16:08:29.775Z</updated>
-        <content type="html"><![CDATA[제천국제음악영화제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[JIMFF2020] 개막식 공연 '바다야 안녕' - 홍이삭, 장하은 Clip 공개! (제천국제음악영화제 ─ 공지사항)]]></title>
-        <id>https://www.vlive.tv/post/1-16553120</id>
-        <link href="https://www.vlive.tv/post/1-16553120"/>
-        <updated>2022-02-17T16:08:29.775Z</updated>
-        <content type="html"><![CDATA[제천국제음악영화제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[JIMFF2020] 제16회 제천국제음악영화제 개막식 8월 13일 오후 6시 20분부터 생중계 시작! (제천국제음악영화제 ─ 공지사항)]]></title>
-        <id>https://www.vlive.tv/post/0-16509404</id>
-        <link href="https://www.vlive.tv/post/0-16509404"/>
-        <updated>2022-02-17T16:08:29.780Z</updated>
-        <content type="html"><![CDATA[제천국제음악영화제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[JIMFF2020] '한국 음악영화의 발자취' 8월 14일 오후 5시 최초 공개! (제천국제음악영화제 ─ 공지사항)]]></title>
-        <id>https://www.vlive.tv/post/1-16468390</id>
-        <link href="https://www.vlive.tv/post/1-16468390"/>
-        <updated>2022-02-17T16:08:29.781Z</updated>
-        <content type="html"><![CDATA[제천국제음악영화제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[JIMFF2020] '故엔니오 모리꼬네 추모 공연' 8월 14일, 16일 오후 3시 최초 공개! (제천국제음악영화제 ─ 공지사항)]]></title>
-        <id>https://www.vlive.tv/post/1-16464452</id>
-        <link href="https://www.vlive.tv/post/1-16464452"/>
-        <updated>2022-02-17T16:08:29.782Z</updated>
-        <content type="html"><![CDATA[제천국제음악영화제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[JIMFF2020] '영화 속 음악코드' 8월 14일 오후 1시, 8월 15일 오후 4시 최초 공개! (제천국제음악영화제 ─ 공지사항)]]></title>
-        <id>https://www.vlive.tv/post/1-16397182</id>
-        <link href="https://www.vlive.tv/post/1-16397182"/>
-        <updated>2022-02-17T16:08:29.783Z</updated>
-        <content type="html"><![CDATA[제천국제음악영화제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[JIMFF2020] 'JIMFF 씨네 콘서트' 8월 14일, 15일, 16일 오전 11시 최초 공개! (제천국제음악영화제 ─ 공지사항)]]></title>
-        <id>https://www.vlive.tv/post/1-16263175</id>
-        <link href="https://www.vlive.tv/post/1-16263175"/>
-        <updated>2022-02-17T16:08:29.784Z</updated>
-        <content type="html"><![CDATA[제천국제음악영화제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Full][메가토크] 2019 부천국제판타스틱영화제 '트랩: 디렉터스 컷' 라이브 'TRAP: Director's Cut' LIVE (부천국제판타스틱영화제)]]></title>
-        <id>https://www.vlive.tv/post/1-18404548</id>
-        <link href="https://www.vlive.tv/post/1-18404548"/>
-        <updated>2022-02-05T12:07:38.796Z</updated>
-        <content type="html"><![CDATA[Bucheon International Fantastic Film Festival (부천국제판타스틱영화제)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Full] 2019 부천국제판타스틱영화제 '킬러미역의 습격', '갈귀', '홈', '출국심사' GV 라이브 (부천국제판타스틱영화제)]]></title>
-        <id>https://www.vlive.tv/post/0-18394129</id>
-        <link href="https://www.vlive.tv/post/0-18394129"/>
-        <updated>2022-02-05T12:07:38.799Z</updated>
-        <content type="html"><![CDATA[Bucheon International Fantastic Film Festival (부천국제판타스틱영화제)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Full][메가토크] 2019 부천국제판타스틱영화제 '페르소나' 라이브 Bucheon International Fantastic Film Festival 'Persona' (부천국제판타스틱영화제)]]></title>
-        <id>https://www.vlive.tv/post/0-18394143</id>
-        <link href="https://www.vlive.tv/post/0-18394143"/>
-        <updated>2022-02-05T12:07:38.803Z</updated>
-        <content type="html"><![CDATA[Bucheon International Fantastic Film Festival (부천국제판타스틱영화제)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Full]2019 부천국제판타스틱영화제 '인생게임' GV라이브 Bucheon International Fantastic Film Festival 'The Game of Life' (부천국제판타스틱영화제)]]></title>
-        <id>https://www.vlive.tv/post/1-18404543</id>
-        <link href="https://www.vlive.tv/post/1-18404543"/>
-        <updated>2022-02-05T12:07:38.803Z</updated>
-        <content type="html"><![CDATA[Bucheon International Fantastic Film Festival (부천국제판타스틱영화제)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Full] 2019 부천국제판타스틱영화제 '코리안 판타스틱: 단편1 (4개 작품)' GV 라이브 (부천국제판타스틱영화제)]]></title>
-        <id>https://www.vlive.tv/post/0-18394132</id>
-        <link href="https://www.vlive.tv/post/0-18394132"/>
-        <updated>2022-02-05T12:07:38.803Z</updated>
-        <content type="html"><![CDATA[Bucheon International Fantastic Film Festival (부천국제판타스틱영화제)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Full] 2019 부천국제판타스틱영화제 '진범' GV 라이브 Bucheon International Fantastic Film Festival 'The Culprit' (부천국제판타스틱영화제)]]></title>
-        <id>https://www.vlive.tv/post/0-18394139</id>
-        <link href="https://www.vlive.tv/post/0-18394139"/>
-        <updated>2022-02-05T12:07:38.803Z</updated>
-        <content type="html"><![CDATA[Bucheon International Fantastic Film Festival (부천국제판타스틱영화제)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Full][메가토크] 2019 부천국제판타스틱영화제 '매혹, 김혜수' 배우 특별전! '타짜' 'Gorgeous, Charming, Dangerous, KIM Hye Soo' (부천국제판타스틱영화제)]]></title>
-        <id>https://www.vlive.tv/post/1-18404554</id>
-        <link href="https://www.vlive.tv/post/1-18404554"/>
-        <updated>2022-02-05T12:07:38.803Z</updated>
-        <content type="html"><![CDATA[Bucheon International Fantastic Film Festival (부천국제판타스틱영화제)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Full] 2019 부천국제판타스틱영화제 '물비늘' GV 라이브 Bucheon International Fantastic Film Festival 'Mulbineul' GV (부천국제판타스틱영화제)]]></title>
-        <id>https://www.vlive.tv/post/1-18404546</id>
-        <link href="https://www.vlive.tv/post/1-18404546"/>
-        <updated>2022-02-05T12:07:38.803Z</updated>
-        <content type="html"><![CDATA[Bucheon International Fantastic Film Festival (부천국제판타스틱영화제)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Full]2019 부천국제판타스틱영화제 '뺑반' GV 라이브 Bucheon International Fantastic Film Festival 'Hit-and-Run Squad' (부천국제판타스틱영화제)]]></title>
-        <id>https://www.vlive.tv/post/1-18404544</id>
-        <link href="https://www.vlive.tv/post/1-18404544"/>
-        <updated>2022-02-05T12:07:38.807Z</updated>
-        <content type="html"><![CDATA[Bucheon International Fantastic Film Festival (부천국제판타스틱영화제)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Full] 2019 부천국제판타스틱영화제 개막식 V라이브 'Bucheon International Fantastic Film Festival' Opening Ceremony (부천국제판타스틱영화제)]]></title>
-        <id>https://www.vlive.tv/post/1-18404558</id>
-        <link href="https://www.vlive.tv/post/1-18404558"/>
-        <updated>2022-02-05T12:07:38.807Z</updated>
-        <content type="html"><![CDATA[Bucheon International Fantastic Film Festival (부천국제판타스틱영화제)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Full] 2019 부천국제판타스틱영화제 레드카펫 V라이브 'Bucheon International Fantastic Film Festival' Red Carpet VLIVE (부천국제판타스틱영화제)]]></title>
-        <id>https://www.vlive.tv/post/0-18394145</id>
-        <link href="https://www.vlive.tv/post/0-18394145"/>
-        <updated>2022-02-05T12:07:38.808Z</updated>
-        <content type="html"><![CDATA[Bucheon International Fantastic Film Festival (부천국제판타스틱영화제)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(예고) 2019 부천국제판타스틱영화제 개막식 (Preview) 'Bucheon International Fantastic Film Festival' Opening Ceremony (부천국제판타스틱영화제)]]></title>
-        <id>https://www.vlive.tv/post/0-18394148</id>
-        <link href="https://www.vlive.tv/post/0-18394148"/>
-        <updated>2022-02-05T12:07:38.808Z</updated>
-        <content type="html"><![CDATA[Bucheon International Fantastic Film Festival (부천국제판타스틱영화제)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(예고) 2019 부천국제판타스틱영화제 레드카펫 (Preview) 'Bucheon International Fantastic Film Festival' Red Carpet (부천국제판타스틱영화제)]]></title>
-        <id>https://www.vlive.tv/post/1-18404564</id>
-        <link href="https://www.vlive.tv/post/1-18404564"/>
-        <updated>2022-02-05T12:07:38.808Z</updated>
-        <content type="html"><![CDATA[Bucheon International Fantastic Film Festival (부천국제판타스틱영화제)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Full][V라이브][제23회 부천국제판타스틱영화제 기자회견][V LIVE][Bucheon International Fantastic Film Festival] (부천국제판타스틱영화제)]]></title>
-        <id>https://www.vlive.tv/post/1-18257361</id>
-        <link href="https://www.vlive.tv/post/1-18257361"/>
-        <updated>2022-02-05T12:07:38.809Z</updated>
-        <content type="html"><![CDATA[Bucheon International Fantastic Film Festival (부천국제판타스틱영화제)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(예고) 제23회 부천국제판타스틱영화제 기자회견 V라이브 (Preview) 'Bucheon International Fantastic Film Festival' VLIVE (부천국제판타스틱영화제)]]></title>
-        <id>https://www.vlive.tv/post/1-18257364</id>
-        <link href="https://www.vlive.tv/post/1-18257364"/>
-        <updated>2022-02-05T12:07:38.809Z</updated>
-        <content type="html"><![CDATA[Bucheon International Fantastic Film Festival (부천국제판타스틱영화제)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[메가토크][2018 부천국제판타스틱영화제 '내 영화 꽃길 내가 깐다, 불한당과 불한당원들'][MEGATALK] (부천국제판타스틱영화제)]]></title>
-        <id>https://www.vlive.tv/post/1-18257596</id>
-        <link href="https://www.vlive.tv/post/1-18257596"/>
-        <updated>2022-02-05T12:07:38.810Z</updated>
-        <content type="html"><![CDATA[Bucheon International Fantastic Film Festival (부천국제판타스틱영화제)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[메가토크][2018 부천국제판타스틱영화제 '한일 저예산 장르영화 생존기'][MEGATALK] (부천국제판타스틱영화제)]]></title>
-        <id>https://www.vlive.tv/post/1-18257598</id>
-        <link href="https://www.vlive.tv/post/1-18257598"/>
-        <updated>2022-02-05T12:07:38.811Z</updated>
-        <content type="html"><![CDATA[Bucheon International Fantastic Film Festival (부천국제판타스틱영화제)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[메가토크][2018 부천국제판타스틱영화제 '영화 그리고 나, 감독 구혜선을 말하다'][MEGATALK] (부천국제판타스틱영화제)]]></title>
-        <id>https://www.vlive.tv/post/0-18247867</id>
-        <link href="https://www.vlive.tv/post/0-18247867"/>
-        <updated>2022-02-05T12:07:38.812Z</updated>
-        <content type="html"><![CDATA[Bucheon International Fantastic Film Festival (부천국제판타스틱영화제)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[메가토크][2018 부천국제판타스틱영화제 '스타, 배우, 아티스트, 정우성'][MEGATALK] (부천국제판타스틱영화제)]]></title>
-        <id>https://www.vlive.tv/post/1-18257601</id>
-        <link href="https://www.vlive.tv/post/1-18257601"/>
-        <updated>2022-02-05T12:07:38.813Z</updated>
-        <content type="html"><![CDATA[Bucheon International Fantastic Film Festival (부천국제판타스틱영화제)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[V라이브][2018 부천국제판타스틱영화제 개막식][VLIVE][Bucheon International Fantastic Film Festival' Opening Ceremony] (부천국제판타스틱영화제)]]></title>
-        <id>https://www.vlive.tv/post/1-18257603</id>
-        <link href="https://www.vlive.tv/post/1-18257603"/>
-        <updated>2022-02-05T12:07:38.814Z</updated>
-        <content type="html"><![CDATA[Bucheon International Fantastic Film Festival (부천국제판타스틱영화제)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BIFAN2020 '루키즈 온 더 시티팝'7/15일(수) 1부 19시 /  2부 21시대공개 ! (부천국제판타스틱영화제 ─ 공지사항)]]></title>
-        <id>https://www.vlive.tv/post/1-15644818</id>
-        <link href="https://www.vlive.tv/post/1-15644818"/>
-        <updated>2022-02-17T16:08:47.051Z</updated>
-        <content type="html"><![CDATA[Bucheon International Fantastic Film Festival (부천국제판타스틱영화제)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[프라이머리, 백현진, 선우정아 : 영화 음악도 했어?! - 영화 음악 감독의 OST 콘서트 '사운드 오브 무비' 7/12 대공개! (부천국제판타스틱영화제 ─ 공지사항)]]></title>
-        <id>https://www.vlive.tv/post/0-15596379</id>
-        <link href="https://www.vlive.tv/post/0-15596379"/>
-        <updated>2022-02-17T16:08:47.052Z</updated>
-        <content type="html"><![CDATA[Bucheon International Fantastic Film Festival (부천국제판타스틱영화제)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2019 부천국제판타스틱영화제 x VLIVE 개막식, 메가토크, GV 라이브 라인업 공개!! (부천국제판타스틱영화제 ─ 공지사항)]]></title>
-        <id>https://www.vlive.tv/post/0-11323722</id>
-        <link href="https://www.vlive.tv/post/0-11323722"/>
-        <updated>2022-02-17T16:08:47.054Z</updated>
-        <content type="html"><![CDATA[Bucheon International Fantastic Film Festival (부천국제판타스틱영화제)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Asia Contents Awards (부산국제영화제)]]></title>
-        <id>https://www.vlive.tv/post/1-25798477</id>
-        <link href="https://www.vlive.tv/post/1-25798477"/>
-        <updated>2022-02-17T16:08:55.322Z</updated>
-        <content type="html"><![CDATA[부산국제영화제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제26회 부산국제영화제 개막식 (부산국제영화제)]]></title>
-        <id>https://www.vlive.tv/post/1-25794004</id>
-        <link href="https://www.vlive.tv/post/1-25794004"/>
-        <updated>2022-02-17T16:08:55.326Z</updated>
-        <content type="html"><![CDATA[부산국제영화제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Full][무대인사] 2019 부산국제영화제 '니나 내나' 라이브 (부산국제영화제)]]></title>
-        <id>https://www.vlive.tv/post/0-18397770</id>
-        <link href="https://www.vlive.tv/post/0-18397770"/>
-        <updated>2022-02-17T16:08:55.327Z</updated>
-        <content type="html"><![CDATA[부산국제영화제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Full][오픈토크] 2019 부산국제영화제 '엑시트' 라이브 (부산국제영화제)]]></title>
-        <id>https://www.vlive.tv/post/1-18408378</id>
-        <link href="https://www.vlive.tv/post/1-18408378"/>
-        <updated>2022-02-17T16:08:55.328Z</updated>
-        <content type="html"><![CDATA[부산국제영화제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Full][무대인사] 2019 부산국제영화제 '야구소녀' 라이브 (부산국제영화제)]]></title>
-        <id>https://www.vlive.tv/post/1-18408369</id>
-        <link href="https://www.vlive.tv/post/1-18408369"/>
-        <updated>2022-02-17T16:08:55.328Z</updated>
-        <content type="html"><![CDATA[부산국제영화제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Full][오픈토크] 2019 부산국제영화제 '극한직업' 라이브 (부산국제영화제)]]></title>
-        <id>https://www.vlive.tv/post/0-18397780</id>
-        <link href="https://www.vlive.tv/post/0-18397780"/>
-        <updated>2022-02-17T16:08:55.329Z</updated>
-        <content type="html"><![CDATA[부산국제영화제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Full][무대인사] 2019 부산국제영화제 '윤희에게' 라이브 (부산국제영화제)]]></title>
-        <id>https://www.vlive.tv/post/0-18397777</id>
-        <link href="https://www.vlive.tv/post/0-18397777"/>
-        <updated>2022-02-17T16:08:55.331Z</updated>
-        <content type="html"><![CDATA[부산국제영화제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Full][무대인사] 2019 부산국제영화제 '버티고' 라이브 (부산국제영화제)]]></title>
-        <id>https://www.vlive.tv/post/0-18397775</id>
-        <link href="https://www.vlive.tv/post/0-18397775"/>
-        <updated>2022-02-17T16:08:55.332Z</updated>
-        <content type="html"><![CDATA[부산국제영화제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Full][2019 부산국제영화제][레드카펫/개막식] (부산국제영화제)]]></title>
-        <id>https://www.vlive.tv/post/0-18397785</id>
-        <link href="https://www.vlive.tv/post/0-18397785"/>
-        <updated>2022-02-17T16:08:55.334Z</updated>
-        <content type="html"><![CDATA[부산국제영화제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[BIFF2019] 아시아콘텐츠어워즈 이벤트 공지 (부산국제영화제 ─ 공지사항)]]></title>
-        <id>https://www.vlive.tv/post/1-11939470</id>
-        <link href="https://www.vlive.tv/post/1-11939470"/>
-        <updated>2022-02-10T11:06:29.030Z</updated>
-        <content type="html"><![CDATA[부산국제영화제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[BIFF2019] 비플하우스 _자갈치 오픈! (부산국제영화제 ─ 공지사항)]]></title>
-        <id>https://www.vlive.tv/post/0-11923439</id>
-        <link href="https://www.vlive.tv/post/0-11923439"/>
-        <updated>2022-02-10T11:06:29.033Z</updated>
-        <content type="html"><![CDATA[부산국제영화제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[BIFF2019] 비플하우스_해운대 오픈! (부산국제영화제 ─ 공지사항)]]></title>
-        <id>https://www.vlive.tv/post/1-11924202</id>
-        <link href="https://www.vlive.tv/post/1-11924202"/>
-        <updated>2022-02-10T11:06:29.034Z</updated>
-        <content type="html"><![CDATA[부산국제영화제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[BIFF2019] 부산국제영화제 티켓카탈로그 배포 (부산국제영화제 ─ 공지사항)]]></title>
-        <id>https://www.vlive.tv/post/0-11880475</id>
-        <link href="https://www.vlive.tv/post/0-11880475"/>
-        <updated>2022-02-10T11:06:29.035Z</updated>
-        <content type="html"><![CDATA[부산국제영화제]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Combined feed</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 18 Feb 2022 10:08:29 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제17회 제천국제음악영화제 개막식 (제천국제음악영화제)]]></title>
+            <link>https://www.vlive.tv/post/1-24755339</link>
+            <guid>https://www.vlive.tv/post/1-24755339</guid>
+            <pubDate>Thu, 17 Feb 2022 16:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[제천국제음악영화제]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[JIMFF2021] 올해의 큐레이터 & 심사위원장 마이크 피기스 감독 인사말 (제천국제음악영화제)]]></title>
+            <link>https://www.vlive.tv/post/1-24378491</link>
+            <guid>https://www.vlive.tv/post/1-24378491</guid>
+            <pubDate>Thu, 17 Feb 2022 16:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[제천국제음악영화제]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[JIMFF2021] 공식 트레일러 박흥식 감독 인사말 (제천국제음악영화제)]]></title>
+            <link>https://www.vlive.tv/post/1-24378427</link>
+            <guid>https://www.vlive.tv/post/1-24378427</guid>
+            <pubDate>Thu, 17 Feb 2022 16:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[제천국제음악영화제]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[JIMFF2021] 올해의 인물 JIMFFACE 엄정화 인사말 (제천국제음악영화제)]]></title>
+            <link>https://www.vlive.tv/post/0-24373990</link>
+            <guid>https://www.vlive.tv/post/0-24373990</guid>
+            <pubDate>Thu, 17 Feb 2022 16:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[제천국제음악영화제]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[JIMFF2021] 공식 트레일러 김수안 배우 인사말 (제천국제음악영화제)]]></title>
+            <link>https://www.vlive.tv/post/1-24378355</link>
+            <guid>https://www.vlive.tv/post/1-24378355</guid>
+            <pubDate>Thu, 17 Feb 2022 16:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[제천국제음악영화제]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[JIMFF2021] 제17회 제천국제음악영화제 공식 트레일러 (제천국제음악영화제)]]></title>
+            <link>https://www.vlive.tv/post/1-24109154</link>
+            <guid>https://www.vlive.tv/post/1-24109154</guid>
+            <pubDate>Thu, 17 Feb 2022 16:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[제천국제음악영화제]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[제17회 제천국제음악영화제 자원활동가 JIMFFree 모집! (제천국제음악영화제)]]></title>
+            <link>https://www.vlive.tv/post/0-23140659</link>
+            <guid>https://www.vlive.tv/post/0-23140659</guid>
+            <pubDate>Thu, 17 Feb 2022 16:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[제천국제음악영화제]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[JIMFF2020] 다시, 그린 콘서트 수퍼세션 17ers (제천국제음악영화제)]]></title>
+            <link>https://www.vlive.tv/post/1-18406667</link>
+            <guid>https://www.vlive.tv/post/1-18406667</guid>
+            <pubDate>Thu, 17 Feb 2022 16:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[제천국제음악영화제]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[JIMFF2020] DAY1 개막식 하이라이트 (제천국제음악영화제)]]></title>
+            <link>https://www.vlive.tv/post/0-18396125</link>
+            <guid>https://www.vlive.tv/post/0-18396125</guid>
+            <pubDate>Thu, 17 Feb 2022 16:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[제천국제음악영화제]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[JIMFF2020] [씨네 토크] JIMFF 음악영화 제작지원작 - 기획에서 완성까지 (제천국제음악영화제)]]></title>
+            <link>https://www.vlive.tv/post/1-18406668</link>
+            <guid>https://www.vlive.tv/post/1-18406668</guid>
+            <pubDate>Thu, 17 Feb 2022 16:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[제천국제음악영화제]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[JIMFF2020] [故엔니오 모리꼬네 추모 공연] 2부 성민제 트리오, 조성우, 임윤희 (제천국제음악영화제)]]></title>
+            <link>https://www.vlive.tv/post/1-18406670</link>
+            <guid>https://www.vlive.tv/post/1-18406670</guid>
+            <pubDate>Thu, 17 Feb 2022 16:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[제천국제음악영화제]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[JIMFF2020] [씨네 토크] 사운드, 그 감각의 예민함 (제천국제음악영화제)]]></title>
+            <link>https://www.vlive.tv/post/1-18406669</link>
+            <guid>https://www.vlive.tv/post/1-18406669</guid>
+            <pubDate>Thu, 17 Feb 2022 16:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[제천국제음악영화제]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[JIMFF2020] [JIMFF 씨네콘서트] 3부 <삼비스타> (제천국제음악영화제)]]></title>
+            <link>https://www.vlive.tv/post/1-18406671</link>
+            <guid>https://www.vlive.tv/post/1-18406671</guid>
+            <pubDate>Thu, 17 Feb 2022 16:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[제천국제음악영화제]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[JIMFF2020] [무비톡 뮤직톡, 영화 속 음악코드]  2부 <헤이트풀8>, <피아니스트의 전설> (제천국제음악영화제)]]></title>
+            <link>https://www.vlive.tv/post/1-18406673</link>
+            <guid>https://www.vlive.tv/post/1-18406673</guid>
+            <pubDate>Thu, 17 Feb 2022 16:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[제천국제음악영화제]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[JIMFF2020] [마스터클래스] 올해의 큐레이터 (제천국제음악영화제)]]></title>
+            <link>https://www.vlive.tv/post/1-18406674</link>
+            <guid>https://www.vlive.tv/post/1-18406674</guid>
+            <pubDate>Thu, 17 Feb 2022 16:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[제천국제음악영화제]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[JIMFF2020] [JIMFF 씨네콘서트] 2부 <카오산 탱고> (제천국제음악영화제)]]></title>
+            <link>https://www.vlive.tv/post/0-18396126</link>
+            <guid>https://www.vlive.tv/post/0-18396126</guid>
+            <pubDate>Thu, 17 Feb 2022 16:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[제천국제음악영화제]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[JIMFF2020] [개막식 공연] 바다야 안녕 - 홍이삭, 장하은 (제천국제음악영화제)]]></title>
+            <link>https://www.vlive.tv/post/1-18406672</link>
+            <guid>https://www.vlive.tv/post/1-18406672</guid>
+            <pubDate>Thu, 17 Feb 2022 16:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[제천국제음악영화제]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[JIMFF2020] [씨네 토크] 한국 음악영화의 발자취 (제천국제음악영화제)]]></title>
+            <link>https://www.vlive.tv/post/0-18396127</link>
+            <guid>https://www.vlive.tv/post/0-18396127</guid>
+            <pubDate>Thu, 17 Feb 2022 16:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[제천국제음악영화제]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[JIMFF2020] [故엔니오 모리꼬네 추모 공연] 1부 조영훈, 홍진호, 대니 구 (제천국제음악영화제)]]></title>
+            <link>https://www.vlive.tv/post/1-18406676</link>
+            <guid>https://www.vlive.tv/post/1-18406676</guid>
+            <pubDate>Thu, 17 Feb 2022 16:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[제천국제음악영화제]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[JIMFF2020] [무비톡 뮤직톡, 영화 속 음악코드] 1부 <다시 만난 날들>, <카오산 탱고> (제천국제음악영화제)]]></title>
+            <link>https://www.vlive.tv/post/1-18406677</link>
+            <guid>https://www.vlive.tv/post/1-18406677</guid>
+            <pubDate>Thu, 17 Feb 2022 16:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[제천국제음악영화제]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[JIMFF 마스터 클래스 - 마이크 피기스 (제천국제음악영화제 ─ 공지사항)]]></title>
+            <link>https://www.vlive.tv/post/1-24769426</link>
+            <guid>https://www.vlive.tv/post/1-24769426</guid>
+            <pubDate>Thu, 17 Feb 2022 16:08:29 GMT</pubDate>
+            <content:encoded><![CDATA[제천국제음악영화제]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[JIMFF2020] 개막식 공연 '바다야 안녕' - 홍이삭, 장하은 Clip 공개! (제천국제음악영화제 ─ 공지사항)]]></title>
+            <link>https://www.vlive.tv/post/1-16553120</link>
+            <guid>https://www.vlive.tv/post/1-16553120</guid>
+            <pubDate>Thu, 17 Feb 2022 16:08:29 GMT</pubDate>
+            <content:encoded><![CDATA[제천국제음악영화제]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[JIMFF2020] 제16회 제천국제음악영화제 개막식 8월 13일 오후 6시 20분부터 생중계 시작! (제천국제음악영화제 ─ 공지사항)]]></title>
+            <link>https://www.vlive.tv/post/0-16509404</link>
+            <guid>https://www.vlive.tv/post/0-16509404</guid>
+            <pubDate>Thu, 17 Feb 2022 16:08:29 GMT</pubDate>
+            <content:encoded><![CDATA[제천국제음악영화제]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[JIMFF2020] '한국 음악영화의 발자취' 8월 14일 오후 5시 최초 공개! (제천국제음악영화제 ─ 공지사항)]]></title>
+            <link>https://www.vlive.tv/post/1-16468390</link>
+            <guid>https://www.vlive.tv/post/1-16468390</guid>
+            <pubDate>Thu, 17 Feb 2022 16:08:29 GMT</pubDate>
+            <content:encoded><![CDATA[제천국제음악영화제]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[JIMFF2020] '故엔니오 모리꼬네 추모 공연' 8월 14일, 16일 오후 3시 최초 공개! (제천국제음악영화제 ─ 공지사항)]]></title>
+            <link>https://www.vlive.tv/post/1-16464452</link>
+            <guid>https://www.vlive.tv/post/1-16464452</guid>
+            <pubDate>Thu, 17 Feb 2022 16:08:29 GMT</pubDate>
+            <content:encoded><![CDATA[제천국제음악영화제]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[JIMFF2020] '영화 속 음악코드' 8월 14일 오후 1시, 8월 15일 오후 4시 최초 공개! (제천국제음악영화제 ─ 공지사항)]]></title>
+            <link>https://www.vlive.tv/post/1-16397182</link>
+            <guid>https://www.vlive.tv/post/1-16397182</guid>
+            <pubDate>Thu, 17 Feb 2022 16:08:29 GMT</pubDate>
+            <content:encoded><![CDATA[제천국제음악영화제]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[JIMFF2020] 'JIMFF 씨네 콘서트' 8월 14일, 15일, 16일 오전 11시 최초 공개! (제천국제음악영화제 ─ 공지사항)]]></title>
+            <link>https://www.vlive.tv/post/1-16263175</link>
+            <guid>https://www.vlive.tv/post/1-16263175</guid>
+            <pubDate>Thu, 17 Feb 2022 16:08:29 GMT</pubDate>
+            <content:encoded><![CDATA[제천국제음악영화제]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[Full][메가토크] 2019 부천국제판타스틱영화제 '트랩: 디렉터스 컷' 라이브 'TRAP: Director's Cut' LIVE (부천국제판타스틱영화제)]]></title>
+            <link>https://www.vlive.tv/post/1-18404548</link>
+            <guid>https://www.vlive.tv/post/1-18404548</guid>
+            <pubDate>Sat, 05 Feb 2022 12:07:38 GMT</pubDate>
+            <content:encoded><![CDATA[Bucheon International Fantastic Film Festival (부천국제판타스틱영화제)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[Full] 2019 부천국제판타스틱영화제 '킬러미역의 습격', '갈귀', '홈', '출국심사' GV 라이브 (부천국제판타스틱영화제)]]></title>
+            <link>https://www.vlive.tv/post/0-18394129</link>
+            <guid>https://www.vlive.tv/post/0-18394129</guid>
+            <pubDate>Sat, 05 Feb 2022 12:07:38 GMT</pubDate>
+            <content:encoded><![CDATA[Bucheon International Fantastic Film Festival (부천국제판타스틱영화제)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[Full][메가토크] 2019 부천국제판타스틱영화제 '페르소나' 라이브 Bucheon International Fantastic Film Festival 'Persona' (부천국제판타스틱영화제)]]></title>
+            <link>https://www.vlive.tv/post/0-18394143</link>
+            <guid>https://www.vlive.tv/post/0-18394143</guid>
+            <pubDate>Sat, 05 Feb 2022 12:07:38 GMT</pubDate>
+            <content:encoded><![CDATA[Bucheon International Fantastic Film Festival (부천국제판타스틱영화제)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[Full]2019 부천국제판타스틱영화제 '인생게임' GV라이브 Bucheon International Fantastic Film Festival 'The Game of Life' (부천국제판타스틱영화제)]]></title>
+            <link>https://www.vlive.tv/post/1-18404543</link>
+            <guid>https://www.vlive.tv/post/1-18404543</guid>
+            <pubDate>Sat, 05 Feb 2022 12:07:38 GMT</pubDate>
+            <content:encoded><![CDATA[Bucheon International Fantastic Film Festival (부천국제판타스틱영화제)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[Full] 2019 부천국제판타스틱영화제 '코리안 판타스틱: 단편1 (4개 작품)' GV 라이브 (부천국제판타스틱영화제)]]></title>
+            <link>https://www.vlive.tv/post/0-18394132</link>
+            <guid>https://www.vlive.tv/post/0-18394132</guid>
+            <pubDate>Sat, 05 Feb 2022 12:07:38 GMT</pubDate>
+            <content:encoded><![CDATA[Bucheon International Fantastic Film Festival (부천국제판타스틱영화제)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[Full] 2019 부천국제판타스틱영화제 '진범' GV 라이브 Bucheon International Fantastic Film Festival 'The Culprit' (부천국제판타스틱영화제)]]></title>
+            <link>https://www.vlive.tv/post/0-18394139</link>
+            <guid>https://www.vlive.tv/post/0-18394139</guid>
+            <pubDate>Sat, 05 Feb 2022 12:07:38 GMT</pubDate>
+            <content:encoded><![CDATA[Bucheon International Fantastic Film Festival (부천국제판타스틱영화제)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[Full][메가토크] 2019 부천국제판타스틱영화제 '매혹, 김혜수' 배우 특별전! '타짜' 'Gorgeous, Charming, Dangerous, KIM Hye Soo' (부천국제판타스틱영화제)]]></title>
+            <link>https://www.vlive.tv/post/1-18404554</link>
+            <guid>https://www.vlive.tv/post/1-18404554</guid>
+            <pubDate>Sat, 05 Feb 2022 12:07:38 GMT</pubDate>
+            <content:encoded><![CDATA[Bucheon International Fantastic Film Festival (부천국제판타스틱영화제)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[Full] 2019 부천국제판타스틱영화제 '물비늘' GV 라이브 Bucheon International Fantastic Film Festival 'Mulbineul' GV (부천국제판타스틱영화제)]]></title>
+            <link>https://www.vlive.tv/post/1-18404546</link>
+            <guid>https://www.vlive.tv/post/1-18404546</guid>
+            <pubDate>Sat, 05 Feb 2022 12:07:38 GMT</pubDate>
+            <content:encoded><![CDATA[Bucheon International Fantastic Film Festival (부천국제판타스틱영화제)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[Full]2019 부천국제판타스틱영화제 '뺑반' GV 라이브 Bucheon International Fantastic Film Festival 'Hit-and-Run Squad' (부천국제판타스틱영화제)]]></title>
+            <link>https://www.vlive.tv/post/1-18404544</link>
+            <guid>https://www.vlive.tv/post/1-18404544</guid>
+            <pubDate>Sat, 05 Feb 2022 12:07:38 GMT</pubDate>
+            <content:encoded><![CDATA[Bucheon International Fantastic Film Festival (부천국제판타스틱영화제)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[Full] 2019 부천국제판타스틱영화제 개막식 V라이브 'Bucheon International Fantastic Film Festival' Opening Ceremony (부천국제판타스틱영화제)]]></title>
+            <link>https://www.vlive.tv/post/1-18404558</link>
+            <guid>https://www.vlive.tv/post/1-18404558</guid>
+            <pubDate>Sat, 05 Feb 2022 12:07:38 GMT</pubDate>
+            <content:encoded><![CDATA[Bucheon International Fantastic Film Festival (부천국제판타스틱영화제)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[Full] 2019 부천국제판타스틱영화제 레드카펫 V라이브 'Bucheon International Fantastic Film Festival' Red Carpet VLIVE (부천국제판타스틱영화제)]]></title>
+            <link>https://www.vlive.tv/post/0-18394145</link>
+            <guid>https://www.vlive.tv/post/0-18394145</guid>
+            <pubDate>Sat, 05 Feb 2022 12:07:38 GMT</pubDate>
+            <content:encoded><![CDATA[Bucheon International Fantastic Film Festival (부천국제판타스틱영화제)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[(예고) 2019 부천국제판타스틱영화제 개막식 (Preview) 'Bucheon International Fantastic Film Festival' Opening Ceremony (부천국제판타스틱영화제)]]></title>
+            <link>https://www.vlive.tv/post/0-18394148</link>
+            <guid>https://www.vlive.tv/post/0-18394148</guid>
+            <pubDate>Sat, 05 Feb 2022 12:07:38 GMT</pubDate>
+            <content:encoded><![CDATA[Bucheon International Fantastic Film Festival (부천국제판타스틱영화제)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[(예고) 2019 부천국제판타스틱영화제 레드카펫 (Preview) 'Bucheon International Fantastic Film Festival' Red Carpet (부천국제판타스틱영화제)]]></title>
+            <link>https://www.vlive.tv/post/1-18404564</link>
+            <guid>https://www.vlive.tv/post/1-18404564</guid>
+            <pubDate>Sat, 05 Feb 2022 12:07:38 GMT</pubDate>
+            <content:encoded><![CDATA[Bucheon International Fantastic Film Festival (부천국제판타스틱영화제)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[Full][V라이브][제23회 부천국제판타스틱영화제 기자회견][V LIVE][Bucheon International Fantastic Film Festival] (부천국제판타스틱영화제)]]></title>
+            <link>https://www.vlive.tv/post/1-18257361</link>
+            <guid>https://www.vlive.tv/post/1-18257361</guid>
+            <pubDate>Sat, 05 Feb 2022 12:07:38 GMT</pubDate>
+            <content:encoded><![CDATA[Bucheon International Fantastic Film Festival (부천국제판타스틱영화제)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[(예고) 제23회 부천국제판타스틱영화제 기자회견 V라이브 (Preview) 'Bucheon International Fantastic Film Festival' VLIVE (부천국제판타스틱영화제)]]></title>
+            <link>https://www.vlive.tv/post/1-18257364</link>
+            <guid>https://www.vlive.tv/post/1-18257364</guid>
+            <pubDate>Sat, 05 Feb 2022 12:07:38 GMT</pubDate>
+            <content:encoded><![CDATA[Bucheon International Fantastic Film Festival (부천국제판타스틱영화제)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[메가토크][2018 부천국제판타스틱영화제 '내 영화 꽃길 내가 깐다, 불한당과 불한당원들'][MEGATALK] (부천국제판타스틱영화제)]]></title>
+            <link>https://www.vlive.tv/post/1-18257596</link>
+            <guid>https://www.vlive.tv/post/1-18257596</guid>
+            <pubDate>Sat, 05 Feb 2022 12:07:38 GMT</pubDate>
+            <content:encoded><![CDATA[Bucheon International Fantastic Film Festival (부천국제판타스틱영화제)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[메가토크][2018 부천국제판타스틱영화제 '한일 저예산 장르영화 생존기'][MEGATALK] (부천국제판타스틱영화제)]]></title>
+            <link>https://www.vlive.tv/post/1-18257598</link>
+            <guid>https://www.vlive.tv/post/1-18257598</guid>
+            <pubDate>Sat, 05 Feb 2022 12:07:38 GMT</pubDate>
+            <content:encoded><![CDATA[Bucheon International Fantastic Film Festival (부천국제판타스틱영화제)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[메가토크][2018 부천국제판타스틱영화제 '영화 그리고 나, 감독 구혜선을 말하다'][MEGATALK] (부천국제판타스틱영화제)]]></title>
+            <link>https://www.vlive.tv/post/0-18247867</link>
+            <guid>https://www.vlive.tv/post/0-18247867</guid>
+            <pubDate>Sat, 05 Feb 2022 12:07:38 GMT</pubDate>
+            <content:encoded><![CDATA[Bucheon International Fantastic Film Festival (부천국제판타스틱영화제)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[메가토크][2018 부천국제판타스틱영화제 '스타, 배우, 아티스트, 정우성'][MEGATALK] (부천국제판타스틱영화제)]]></title>
+            <link>https://www.vlive.tv/post/1-18257601</link>
+            <guid>https://www.vlive.tv/post/1-18257601</guid>
+            <pubDate>Sat, 05 Feb 2022 12:07:38 GMT</pubDate>
+            <content:encoded><![CDATA[Bucheon International Fantastic Film Festival (부천국제판타스틱영화제)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[V라이브][2018 부천국제판타스틱영화제 개막식][VLIVE][Bucheon International Fantastic Film Festival' Opening Ceremony] (부천국제판타스틱영화제)]]></title>
+            <link>https://www.vlive.tv/post/1-18257603</link>
+            <guid>https://www.vlive.tv/post/1-18257603</guid>
+            <pubDate>Sat, 05 Feb 2022 12:07:38 GMT</pubDate>
+            <content:encoded><![CDATA[Bucheon International Fantastic Film Festival (부천국제판타스틱영화제)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[BIFAN2020 '루키즈 온 더 시티팝'7/15일(수) 1부 19시 /  2부 21시대공개 ! (부천국제판타스틱영화제 ─ 공지사항)]]></title>
+            <link>https://www.vlive.tv/post/1-15644818</link>
+            <guid>https://www.vlive.tv/post/1-15644818</guid>
+            <pubDate>Thu, 17 Feb 2022 16:08:47 GMT</pubDate>
+            <content:encoded><![CDATA[Bucheon International Fantastic Film Festival (부천국제판타스틱영화제)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[프라이머리, 백현진, 선우정아 : 영화 음악도 했어?! - 영화 음악 감독의 OST 콘서트 '사운드 오브 무비' 7/12 대공개! (부천국제판타스틱영화제 ─ 공지사항)]]></title>
+            <link>https://www.vlive.tv/post/0-15596379</link>
+            <guid>https://www.vlive.tv/post/0-15596379</guid>
+            <pubDate>Thu, 17 Feb 2022 16:08:47 GMT</pubDate>
+            <content:encoded><![CDATA[Bucheon International Fantastic Film Festival (부천국제판타스틱영화제)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2019 부천국제판타스틱영화제 x VLIVE 개막식, 메가토크, GV 라이브 라인업 공개!! (부천국제판타스틱영화제 ─ 공지사항)]]></title>
+            <link>https://www.vlive.tv/post/0-11323722</link>
+            <guid>https://www.vlive.tv/post/0-11323722</guid>
+            <pubDate>Thu, 17 Feb 2022 16:08:47 GMT</pubDate>
+            <content:encoded><![CDATA[Bucheon International Fantastic Film Festival (부천국제판타스틱영화제)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Asia Contents Awards (부산국제영화제)]]></title>
+            <link>https://www.vlive.tv/post/1-25798477</link>
+            <guid>https://www.vlive.tv/post/1-25798477</guid>
+            <pubDate>Thu, 17 Feb 2022 16:08:55 GMT</pubDate>
+            <content:encoded><![CDATA[부산국제영화제]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[제26회 부산국제영화제 개막식 (부산국제영화제)]]></title>
+            <link>https://www.vlive.tv/post/1-25794004</link>
+            <guid>https://www.vlive.tv/post/1-25794004</guid>
+            <pubDate>Thu, 17 Feb 2022 16:08:55 GMT</pubDate>
+            <content:encoded><![CDATA[부산국제영화제]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[Full][무대인사] 2019 부산국제영화제 '니나 내나' 라이브 (부산국제영화제)]]></title>
+            <link>https://www.vlive.tv/post/0-18397770</link>
+            <guid>https://www.vlive.tv/post/0-18397770</guid>
+            <pubDate>Thu, 17 Feb 2022 16:08:55 GMT</pubDate>
+            <content:encoded><![CDATA[부산국제영화제]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[Full][오픈토크] 2019 부산국제영화제 '엑시트' 라이브 (부산국제영화제)]]></title>
+            <link>https://www.vlive.tv/post/1-18408378</link>
+            <guid>https://www.vlive.tv/post/1-18408378</guid>
+            <pubDate>Thu, 17 Feb 2022 16:08:55 GMT</pubDate>
+            <content:encoded><![CDATA[부산국제영화제]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[Full][무대인사] 2019 부산국제영화제 '야구소녀' 라이브 (부산국제영화제)]]></title>
+            <link>https://www.vlive.tv/post/1-18408369</link>
+            <guid>https://www.vlive.tv/post/1-18408369</guid>
+            <pubDate>Thu, 17 Feb 2022 16:08:55 GMT</pubDate>
+            <content:encoded><![CDATA[부산국제영화제]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[Full][오픈토크] 2019 부산국제영화제 '극한직업' 라이브 (부산국제영화제)]]></title>
+            <link>https://www.vlive.tv/post/0-18397780</link>
+            <guid>https://www.vlive.tv/post/0-18397780</guid>
+            <pubDate>Thu, 17 Feb 2022 16:08:55 GMT</pubDate>
+            <content:encoded><![CDATA[부산국제영화제]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[Full][무대인사] 2019 부산국제영화제 '윤희에게' 라이브 (부산국제영화제)]]></title>
+            <link>https://www.vlive.tv/post/0-18397777</link>
+            <guid>https://www.vlive.tv/post/0-18397777</guid>
+            <pubDate>Thu, 17 Feb 2022 16:08:55 GMT</pubDate>
+            <content:encoded><![CDATA[부산국제영화제]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[Full][무대인사] 2019 부산국제영화제 '버티고' 라이브 (부산국제영화제)]]></title>
+            <link>https://www.vlive.tv/post/0-18397775</link>
+            <guid>https://www.vlive.tv/post/0-18397775</guid>
+            <pubDate>Thu, 17 Feb 2022 16:08:55 GMT</pubDate>
+            <content:encoded><![CDATA[부산국제영화제]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[Full][2019 부산국제영화제][레드카펫/개막식] (부산국제영화제)]]></title>
+            <link>https://www.vlive.tv/post/0-18397785</link>
+            <guid>https://www.vlive.tv/post/0-18397785</guid>
+            <pubDate>Thu, 17 Feb 2022 16:08:55 GMT</pubDate>
+            <content:encoded><![CDATA[부산국제영화제]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[BIFF2019] 아시아콘텐츠어워즈 이벤트 공지 (부산국제영화제 ─ 공지사항)]]></title>
+            <link>https://www.vlive.tv/post/1-11939470</link>
+            <guid>https://www.vlive.tv/post/1-11939470</guid>
+            <pubDate>Thu, 10 Feb 2022 11:06:29 GMT</pubDate>
+            <content:encoded><![CDATA[부산국제영화제]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[BIFF2019] 비플하우스 _자갈치 오픈! (부산국제영화제 ─ 공지사항)]]></title>
+            <link>https://www.vlive.tv/post/0-11923439</link>
+            <guid>https://www.vlive.tv/post/0-11923439</guid>
+            <pubDate>Thu, 10 Feb 2022 11:06:29 GMT</pubDate>
+            <content:encoded><![CDATA[부산국제영화제]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[BIFF2019] 비플하우스_해운대 오픈! (부산국제영화제 ─ 공지사항)]]></title>
+            <link>https://www.vlive.tv/post/1-11924202</link>
+            <guid>https://www.vlive.tv/post/1-11924202</guid>
+            <pubDate>Thu, 10 Feb 2022 11:06:29 GMT</pubDate>
+            <content:encoded><![CDATA[부산국제영화제]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[BIFF2019] 부산국제영화제 티켓카탈로그 배포 (부산국제영화제 ─ 공지사항)]]></title>
+            <link>https://www.vlive.tv/post/0-11880475</link>
+            <guid>https://www.vlive.tv/post/0-11880475</guid>
+            <pubDate>Thu, 10 Feb 2022 11:06:29 GMT</pubDate>
+            <content:encoded><![CDATA[부산국제영화제]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[22nd JEONJU IFF_Master Class] <한옥희 단편> 마스터클래스_한옥희 감독 (전주국제영화제)]]></title>
+            <link>https://www.vlive.tv/post/1-22883103</link>
+            <guid>https://www.vlive.tv/post/1-22883103</guid>
+            <pubDate>Fri, 18 Feb 2022 10:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[2021.5.20.]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210520_107/16214750550274q804_PNG/upload_65060216436196573cd019b62-72f4-4800-9f12-3266288f51eb.png?type=f359x202" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[22nd JEONJU IFF_Master Class] <공중보건> 마스터클래스_드니 코테 감독 (전주국제영화제)]]></title>
+            <link>https://www.vlive.tv/post/0-22877309</link>
+            <guid>https://www.vlive.tv/post/0-22877309</guid>
+            <pubDate>Fri, 18 Feb 2022 10:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[2021.5.20.]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210520_165/1621475069036nKilw_PNG/upload_650599003237671067e3ecb86-e295-4e6a-916e-34e7347e82ab.png?type=f359x202" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[22nd JEONJU IFF_Program Event] 온에어: 연계행사 퀘백 영화의 발자취를 찾아서 (전주국제영화제)]]></title>
+            <link>https://www.vlive.tv/post/1-22935195</link>
+            <guid>https://www.vlive.tv/post/1-22935195</guid>
+            <pubDate>Fri, 18 Feb 2022 10:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[2021.5.17.]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210517_199/1621232876468S70lK_PNG/upload_6531259242891815583909ad3-b515-4bca-b373-0d1caa416055.png?type=f359x202" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[22nd JEONJU IFF_Program Event] 영특한클래스: 여성의 도전엔 한계가 없다 (전주국제영화제)]]></title>
+            <link>https://www.vlive.tv/post/0-22828037</link>
+            <guid>https://www.vlive.tv/post/0-22828037</guid>
+            <pubDate>Fri, 18 Feb 2022 10:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[2021.5.11.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[22nd JEONJU IFF_Program Events] 전주톡톡: 독립영화 배우열전 2 (전주국제영화제)]]></title>
+            <link>https://www.vlive.tv/post/0-22827881</link>
+            <guid>https://www.vlive.tv/post/0-22827881</guid>
+            <pubDate>Fri, 18 Feb 2022 10:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[2021.5.11.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[22nd JEONJU IFF_Master Class] 케이사운드 마스터클래스_사운드 디자인과 내러티브 (전주국제영화제)]]></title>
+            <link>https://www.vlive.tv/post/1-22832013</link>
+            <guid>https://www.vlive.tv/post/1-22832013</guid>
+            <pubDate>Fri, 18 Feb 2022 10:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[2021.5.11.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[22nd JEONJU IFF] 제22회 전주국제영화제 결산 영상 (전주국제영화제)]]></title>
+            <link>https://www.vlive.tv/post/0-22810013</link>
+            <guid>https://www.vlive.tv/post/0-22810013</guid>
+            <pubDate>Fri, 18 Feb 2022 10:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[2021.5.10.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[22nd JEONJU IFF_Program Events] 이화정의 전주가오디오: 반짝반짝 빛나는 (전주국제영화제)]]></title>
+            <link>https://www.vlive.tv/post/1-22581137</link>
+            <guid>https://www.vlive.tv/post/1-22581137</guid>
+            <pubDate>Fri, 18 Feb 2022 10:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[2021.5.3.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[22nd JEONJU IFF_Program Events] 전주톡톡: 이 시대의 우먼파워 (전주국제영화제)]]></title>
+            <link>https://www.vlive.tv/post/0-22573987</link>
+            <guid>https://www.vlive.tv/post/0-22573987</guid>
+            <pubDate>Fri, 18 Feb 2022 10:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[2021.5.3.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[22nd JEONJU IFF_Program Events] 영특한클래스: 친밀한 위험을 넘어 (전주국제영화제)]]></title>
+            <link>https://www.vlive.tv/post/0-22682325</link>
+            <guid>https://www.vlive.tv/post/0-22682325</guid>
+            <pubDate>Fri, 18 Feb 2022 10:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[2021.5.3.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[전주컨퍼런스] 2021 한국형 영화 효과음원 컨퍼런스 (전주국제영화제)]]></title>
+            <link>https://www.vlive.tv/post/1-22587578</link>
+            <guid>https://www.vlive.tv/post/1-22587578</guid>
+            <pubDate>Fri, 18 Feb 2022 10:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[2021.5.3.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[22nd JEONJU IFF_Master Class] 케이사운드 마스터클래스_소리의 창조, 폴리의 세계 (전주국제영화제)]]></title>
+            <link>https://www.vlive.tv/post/0-22633094</link>
+            <guid>https://www.vlive.tv/post/0-22633094</guid>
+            <pubDate>Fri, 18 Feb 2022 10:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[2021.5.2.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[22nd JEONJU IFF_Program Events] 이화정의 전주가오디오: 퍼플레이와 함께하는 ‘당신의 처음’ (전주국제영화제)]]></title>
+            <link>https://www.vlive.tv/post/0-22574173</link>
+            <guid>https://www.vlive.tv/post/0-22574173</guid>
+            <pubDate>Fri, 18 Feb 2022 10:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[2021.5.2.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[22nd JEONJU IFF_Program Events] 영특한클래스: 스크린에 비친 당신의 이야기 (전주국제영화제)]]></title>
+            <link>https://www.vlive.tv/post/1-22581079</link>
+            <guid>https://www.vlive.tv/post/1-22581079</guid>
+            <pubDate>Fri, 18 Feb 2022 10:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[2021.5.2.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[22nd JEONJU IFF_Program Events] 전주톡톡: 맛있는 영화 (전주국제영화제)]]></title>
+            <link>https://www.vlive.tv/post/1-22580851</link>
+            <guid>https://www.vlive.tv/post/1-22580851</guid>
+            <pubDate>Fri, 18 Feb 2022 10:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[2021.5.1.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[22nd JEONJU IFF_Program Event] 전주톡톡: 독립영화 배우열전 1 (전주국제영화제)]]></title>
+            <link>https://www.vlive.tv/post/0-22573905</link>
+            <guid>https://www.vlive.tv/post/0-22573905</guid>
+            <pubDate>Fri, 18 Feb 2022 10:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[2021.5.1.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[22nd JEONJU IFF_Program Event] 전주톡톡: 반가운 얼굴들, 반가운 배우들 (전주국제영화제)]]></title>
+            <link>https://www.vlive.tv/post/0-22573868</link>
+            <guid>https://www.vlive.tv/post/0-22573868</guid>
+            <pubDate>Fri, 18 Feb 2022 10:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[2021.5.1.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[22nd JEONJU IFF] 제 22회 전주국제영화제 미얀마 민주화운동 지지 기자회견 풀버전 (전주국제영화제)]]></title>
+            <link>https://www.vlive.tv/post/1-22650404</link>
+            <guid>https://www.vlive.tv/post/1-22650404</guid>
+            <pubDate>Fri, 18 Feb 2022 10:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[2021.5.1.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[22nd JEONJU IFF] J 스페셜: 올해의 프로그래머 류현경 공식 기자회견 (전주국제영화제)]]></title>
+            <link>https://www.vlive.tv/post/1-22650262</link>
+            <guid>https://www.vlive.tv/post/1-22650262</guid>
+            <pubDate>Fri, 18 Feb 2022 10:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[2021.5.1.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[22nd JEONJU IFF_Program Event] 이화정의 전주가오디오: 우리 가는 길이 험하고 멀지라도 (전주국제영화제)]]></title>
+            <link>https://www.vlive.tv/post/0-22574097</link>
+            <guid>https://www.vlive.tv/post/0-22574097</guid>
+            <pubDate>Fri, 18 Feb 2022 10:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[2021.4.30.]]></content:encoded>
+        </item>
+    </channel>
+</rss>
