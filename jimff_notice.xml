@@ -2,7 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/B069D9/board/2601?lang=ko</id>
     <title>제천국제음악영화제 ─ 공지사항</title>
-    <updated>2022-11-16T16:18:13.680Z</updated>
+    <updated>2022-11-16T17:17:36.105Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[JIMFF 마스터 클래스 - 마이크 피기스]]></title>
+        <id>https://www.vlive.tv/post/1-24769426</id>
+        <link href="https://www.vlive.tv/post/1-24769426"/>
+        <updated>2022-11-16T17:16:45.663Z</updated>
+        <content type="html"><![CDATA[제천국제음악영화제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[JIMFF2020] 개막식 공연 '바다야 안녕' - 홍이삭, 장하은 Clip 공개!]]></title>
+        <id>https://www.vlive.tv/post/1-16553120</id>
+        <link href="https://www.vlive.tv/post/1-16553120"/>
+        <updated>2022-11-16T17:16:45.663Z</updated>
+        <content type="html"><![CDATA[제천국제음악영화제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[JIMFF2020] 제16회 제천국제음악영화제 개막식 8월 13일 오후 6시 20분부터 생중계 시작!]]></title>
+        <id>https://www.vlive.tv/post/0-16509404</id>
+        <link href="https://www.vlive.tv/post/0-16509404"/>
+        <updated>2022-11-16T17:16:45.663Z</updated>
+        <content type="html"><![CDATA[제천국제음악영화제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[JIMFF2020] '한국 음악영화의 발자취' 8월 14일 오후 5시 최초 공개!]]></title>
+        <id>https://www.vlive.tv/post/1-16468390</id>
+        <link href="https://www.vlive.tv/post/1-16468390"/>
+        <updated>2022-11-16T17:16:45.663Z</updated>
+        <content type="html"><![CDATA[제천국제음악영화제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[JIMFF2020] '故엔니오 모리꼬네 추모 공연' 8월 14일, 16일 오후 3시 최초 공개!]]></title>
+        <id>https://www.vlive.tv/post/1-16464452</id>
+        <link href="https://www.vlive.tv/post/1-16464452"/>
+        <updated>2022-11-16T17:16:45.666Z</updated>
+        <content type="html"><![CDATA[제천국제음악영화제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[JIMFF2020] '영화 속 음악코드' 8월 14일 오후 1시, 8월 15일 오후 4시 최초 공개!]]></title>
+        <id>https://www.vlive.tv/post/1-16397182</id>
+        <link href="https://www.vlive.tv/post/1-16397182"/>
+        <updated>2022-11-16T17:16:45.668Z</updated>
+        <content type="html"><![CDATA[제천국제음악영화제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[JIMFF2020] 'JIMFF 씨네 콘서트' 8월 14일, 15일, 16일 오전 11시 최초 공개!]]></title>
+        <id>https://www.vlive.tv/post/1-16263175</id>
+        <link href="https://www.vlive.tv/post/1-16263175"/>
+        <updated>2022-11-16T17:16:45.669Z</updated>
+        <content type="html"><![CDATA[제천국제음악영화제]]></content>
+    </entry>
 </feed>
